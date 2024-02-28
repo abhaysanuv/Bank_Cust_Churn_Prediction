@@ -1,1 +1,2 @@
-cleaned up
+Classification using RandomForest Classifier to predict whether a bank's customer will Churn or not based on customer features.
+Created another dummy column called CustomerResponse to find out the relation between feature correlation to target variable and precision-recall trade-off.
